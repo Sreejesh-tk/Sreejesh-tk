@@ -7,7 +7,7 @@
        Learning resources and tools related to Go and DevOps
 - 📫 How to reach me LINKEDIN -Sreejesh TK
 - 😄 Pronouns:HE/HIM
-- ⚡ Fun fact:I loves to play wit codes.
+- ⚡ Fun fact:I loves to play with codes.
 
 <!---
 Sreejesh-tk/Sreejesh-tk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
