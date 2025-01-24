@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sreejesh-tk
-- 
 - 👀 I’m interested in  web performance optimization, responsive design, and backend development. I thrive on challenges and continuous learning.
 - 🌱 I’m currently learning Go lang
 - 💞️ I’m looking to collaborate on
